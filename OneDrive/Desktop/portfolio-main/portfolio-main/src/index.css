@@ -1,0 +1,11 @@
+@import "tailwindcss";
+html {
+  scroll-behavior: smooth;
+  -ms-overflow-style: none;
+  scrollbar-width: none; 
+}
+.services_scrollbar{
+  overflow-x:scroll;
+  -ms-overflow-style: none;
+  scrollbar-width: none;   
+}
